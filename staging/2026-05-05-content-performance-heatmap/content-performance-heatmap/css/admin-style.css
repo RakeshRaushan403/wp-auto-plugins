@@ -1,0 +1,40 @@
+#cph-heatmap-container {
+    padding: 10px;
+}
+
+#cph-heatmap-visualization {
+    margin: 20px 0;
+}
+
+.cph-heatmap-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+.cph-heatmap-table th,
+.cph-heatmap-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.cph-heatmap-table th {
+    background-color: #f5f5f5;
+    font-weight: 600;
+}
+
+.cph-heatmap-table tbody tr:hover {
+    background-color: #f9f9f9;
+}
+
+.cph-heat-bar {
+    height: 20px;
+    min-width: 2px;
+    border-radius: 3px;
+    transition: width 0.3s ease;
+}
+
+#cph-load-heatmap {
+    margin-top: 10px;
+}
