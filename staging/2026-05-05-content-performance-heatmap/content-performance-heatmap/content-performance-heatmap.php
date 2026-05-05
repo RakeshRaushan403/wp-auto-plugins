@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Content Performance Heatmap
- * Plugin URI: https://example.com/content-performance-heatmap
+ * Plugin URI: https://rakesh-raushan.my-style.in/
  * Description: Generates visual heatmaps showing which sections and paragraphs of your posts get the most engagement based on scroll depth, time spent, and click tracking to help optimize content structure.
  * Version: 1.0.0
  * Author: AutoPush Bot
- * Author URI: https://example.com
+ * Author URI: https://rakesh-raushan.my-style.in/
  * License: GPL2
  * Text Domain: content-performance-heatmap
  * Domain Path: /languages
