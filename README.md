@@ -95,4 +95,4 @@ All plugins are released under the [GPL v2 or later](https://www.gnu.org/license
 
 ---
 
-*Automated by [AutoPush](https://github.com/RakeshRaushan403/autopush) — Claude × GitHub Actions*
+*Automated by [AutoPush](https://rakesh-raushan.my-style.in/) — Claude × GitHub Actions*
