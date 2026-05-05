@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Checkout Field Conditional Logic Pro
- * Plugin URI: https://example.com/checkout-field-conditional-logic-pro
+ * Plugin URI: https://rakesh-raushan.my-style.in/
  * Description: Dynamically shows or hides WooCommerce checkout fields based on real-time customer selections like shipping method, product categories, payment gateway, or cart total, reducing friction and form abandonment.
  * Version: 1.0.0
  * Author: AutoPush Bot
- * Author URI: https://example.com
+ * Author URI: https://rakesh-raushan.my-style.in/
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: checkout-field-conditional-logic-pro
